@@ -1,0 +1,200 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+
+
+.logo-positive-main {
+
+    filter: none;
+    width: 595.18px;
+    height: 500px;
+    display: inline-block;
+
+
+}
+
+.links-header {
+
+    color: #17233D;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 32px;
+
+}
+
+.botao-header {
+
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    width: 124px;
+    height: 51px;
+    border-radius: 7px;
+    background: #6FBF44;
+    border: 1px solid #4CB538
+}
+
+h1 {
+
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.5961538553237915px;
+    text-align: left;
+    width: 582px;
+    color: #161A49;
+    margin-bottom: 47px;
+    margin-top: 96px;
+
+
+
+}
+
+p {
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #4B505A;
+    width: 493px;
+    margin-bottom: 55px;
+
+
+}
+
+.link-sections {
+
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #6FBF44;
+    text-decoration: none;
+}
+
+header {
+    margin: 47px 0px 178px 42px;
+
+}
+
+main {
+    margin-left: 121px;
+    display: flex;
+}
+
+section {
+
+    display: inline-block;
+    margin-left: 84.82px;
+
+
+}
+button {
+
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 1300px){
+
+    main {
+        margin: 0;
+        padding: 0;
+        display: ruby;
+
+    }
+}
+
+@media screen and (max-width: 700px){
+   
+
+    .links-header {
+        display: none;
+    }
+    
+    header {
+        margin: 0px;
+    }
+
+    .botao-header{
+
+        width: 91px;
+        height: 31px;
+        font-size: 12px;
+        line-height: 18px;
+        letter-spacing: 1px;
+        text-align: center;
+        margin: 17px 15px 76px 284px;
+
+
+
+    }
+
+section {
+
+    display: ruby;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 124px;
+}
+
+    h1{
+        font-size: 30px;
+        line-height: 30px;
+        letter-spacing: 0.5961538553237915px;
+        text-align: center;
+        width: 278px;
+        height: 60px;
+        margin: 0 57px 29px 55px;
+
+        
+        
+    }
+
+    p{
+
+        width: 304px;
+        height: 165px;
+        text-align: center;
+        margin: 0 43px 26px 43px;
+
+
+    }
+
+   
+    
+
+    .logo-positive-main{
+
+        width: 312px;
+        height: 288px;
+        position: absolute;
+        top: 490px;
+        margin: 0px 39px;
+        
+        
+
+    }
+
+
+}
+
+
+
+
