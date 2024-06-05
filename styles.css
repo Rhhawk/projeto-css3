@@ -104,13 +104,14 @@ section {
 
 
 }
+
 button {
 
     cursor: pointer;
 }
 
 
-@media screen and (max-width: 1300px){
+@media screen and (max-width: 1300px) {
 
     main {
         margin: 0;
@@ -120,18 +121,18 @@ button {
     }
 }
 
-@media screen and (max-width: 700px){
-   
+@media screen and (max-width: 700px) {
+
 
     .links-header {
         display: none;
     }
-    
+
     header {
         margin: 0px;
     }
 
-    .botao-header{
+    .botao-header {
 
         width: 91px;
         height: 31px;
@@ -145,16 +146,16 @@ button {
 
     }
 
-section {
+    section {
 
-    display: ruby;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 124px;
-}
+        display: ruby;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 124px;
+    }
 
-    h1{
+    h1 {
         font-size: 30px;
         line-height: 30px;
         letter-spacing: 0.5961538553237915px;
@@ -163,11 +164,11 @@ section {
         height: 60px;
         margin: 0 57px 29px 55px;
 
-        
-        
+
+
     }
 
-    p{
+    p {
 
         width: 304px;
         height: 165px;
@@ -177,24 +178,20 @@ section {
 
     }
 
-   
-    
 
-    .logo-positive-main{
+
+
+    .logo-positive-main {
 
         width: 312px;
         height: 288px;
         position: absolute;
         top: 490px;
         margin: 0px 39px;
-        
-        
+
+
 
     }
 
 
 }
-
-
-
-
